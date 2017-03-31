@@ -8,3 +8,5 @@ a. Within same epochs, the Pearson divergence loss converges much slower than th
 b. The Pearson divergence version could generate more real images rather than color disstortion of none-Pearson version.
 
 c. Don't use a activation at the output of generator logits.
+
+d. Batch Norm Will Speed Up the convergence.
